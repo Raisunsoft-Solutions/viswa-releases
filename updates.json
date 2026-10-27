@@ -1,10 +1,10 @@
 {
     "viswaocrai":  {
-                       "version":  "1.1.4",
-                       "installer_url":  "https://github.com/Raisunsoft-Solutions/viswa-releases/releases/download/viswaocrai-v1.1.4/ViswaOcrAI-Setup-1.1.4.exe",
-                       "sha256":  "6a9ef7407d2e83a46055f98af045d55cdd33263c1fe16e1397acd9f8699b1f6d",
-                       "notes":  "Extract FcF is much faster (about 0.3-2 s a view instead of 10-30 s). In-app updates: the app now checks for new versions and can update itself.",
-                       "published":  "2026-10-26"
+                       "version":  "1.1.5",
+                       "installer_url":  "https://github.com/Raisunsoft-Solutions/viswa-releases/releases/download/viswaocrai-v1.1.5/ViswaOcrAI-Setup-1.1.5.exe",
+                       "sha256":  "3b47880881f2580c201e3494f53cb1e9aebf413d4c697cd04f415381d57bb8b6",
+                       "notes":  "Extract FcF finds and reads many more frames: ISO zone modifiers (UZ, CZ, OZ), frames ruled in light grey, tilted frames, composite and mixed multi-row frames, small position/concentricity symbols told apart. Multi-line frames get one box per row on the annotated drawing.",
+                       "published":  "2026-10-27"
                    },
     "viswasketch":  {
                         "version":  "1.0.11",
