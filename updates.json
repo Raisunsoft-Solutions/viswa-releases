@@ -7,10 +7,10 @@
                        "published":  "2026-10-27"
                    },
     "viswasketch":  {
-                        "version":  "1.0.11",
-                        "installer_url":  "https://github.com/Raisunsoft-Solutions/viswa-releases/releases/download/viswasketch-v1.0.11/ViswaSketch-Setup-1.0.11.exe",
-                        "sha256":  "84bef88784a875eb5716a0f72530c19a8ec20eaf2c2f5bcfaeeb7b27a37e58d3",
-                        "notes":  "Bundles Viswa OCR AI 1.1.4: much faster Extract FcF. In-app updates: the app now checks for new versions and can update itself.",
-                        "published":  "2026-10-26"
+                        "version":  "1.0.12",
+                        "installer_url":  "https://github.com/Raisunsoft-Solutions/viswa-releases/releases/download/viswasketch-v1.0.12/ViswaSketch-Setup-1.0.12.exe",
+                        "sha256":  "20451898147765d6cd80b284bf47b363ea4665200f6f16e720e1c0a9902c958d",
+                        "notes":  "Bundles Viswa OCR AI 1.1.5: Extract FcF finds and reads many more frames (zone modifiers, light-grey and tilted frames, multi-row frames).",
+                        "published":  "2026-10-27"
                     }
 }
