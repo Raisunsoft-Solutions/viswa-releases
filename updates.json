@@ -1,10 +1,10 @@
 {
     "viswaocrai":  {
-                       "version":  "1.1.5",
-                       "installer_url":  "https://github.com/Raisunsoft-Solutions/viswa-releases/releases/download/viswaocrai-v1.1.5/ViswaOcrAI-Setup-1.1.5.exe",
-                       "sha256":  "3b47880881f2580c201e3494f53cb1e9aebf413d4c697cd04f415381d57bb8b6",
-                       "notes":  "Extract FcF finds and reads many more frames: ISO zone modifiers (UZ, CZ, OZ), frames ruled in light grey, tilted frames, composite and mixed multi-row frames, small position/concentricity symbols told apart. Multi-line frames get one box per row on the annotated drawing.",
-                       "published":  "2026-10-27"
+                       "version":  "1.1.6",
+                       "installer_url":  "https://github.com/Raisunsoft-Solutions/viswa-releases/releases/download/viswaocrai-v1.1.6/ViswaOcrAI-Setup-1.1.6.exe",
+                       "sha256":  "6c092cdded2642b6d5c1b94e3f0796bae371d9ae5679db9a4fc065677e1cabe1",
+                       "notes":  "Extract FcF: more frames found and read right on the Mach Aero drawings - symbol fixes, tilted/vertical/stacked frames, bold-scan modifiers and datums, letter and range tolerances read as written.",
+                       "published":  "2026-10-28"
                    },
     "viswasketch":  {
                         "version":  "1.0.12",
